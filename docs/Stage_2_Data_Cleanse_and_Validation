@@ -1,0 +1,3 @@
+W tym etapie sprawdziłem, czy format danych jest poprawny (Daty w formacie DATE, text w formacie VARCHAR, liczby w formacie INTEGER)
+Następnie, ustawiłem PRIMARY KEY dla każdej tabeli (05_add_primary_keys)
+Ustawiłem relacje pomiędzy tabelami (06_add_foreign_keys)
