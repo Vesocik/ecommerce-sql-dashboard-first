@@ -1,3 +1,8 @@
-W tym etapie sprawdziłem, czy format danych jest poprawny (Daty w formacie DATE, text w formacie VARCHAR, liczby w formacie INTEGER)
-Następnie, ustawiłem PRIMARY KEY dla każdej tabeli (05_add_primary_keys)
-Ustawiłem relacje pomiędzy tabelami (06_add_foreign_keys)
+Stage 2 is all about data cleaning and formatting.
+    
+    I have checked every columns in every table to see if the data is formatted properly (DATE/DATETIME on date columns, INT on number columns, VARCHAR on text columns).
+
+    I created a PRIMARY KEYS and relations (FOREIGN KEYS) between tables:
+        - Querries can be found in /sql/05_add_primary_keys and /sql/06_add_foreign_keys
+        - A screenshot of ready ERD diagram can be found in /docs/Diagram_ERD.png
+

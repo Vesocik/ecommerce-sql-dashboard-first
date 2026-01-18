@@ -1,3 +1,7 @@
-Stworzyłem darmową bazę danych w AWS, aby móc trzymać ją w chmurze
-Zainstalowałem program DBeaver, aby móc zimportować tabele ściągnięte z Kaggle w formacie CSV do bazy danych
-Zainstalowałem rozszerzenia w programie VS Code, aby mieć połączenie z moją bazą danych oraz móc na niej operować i pisać zapytania.
+Stage 1 is all about setting up a working environment - Creating a database, creating a GitHub repositorium, installing all necessary extensions. 
+    
+    Beginning of the project was to create a cloud database using AWS services (free account).
+    
+    I have installed a program DBeaver to upload tables downloaded from Kaggle to my database. I had to learn how to operate DBeaver, how to upload tables, how to connect DBeaver to AWS Database etc. 
+    
+    Then, I decided that I will operate on VSCode (as I enjoy using that tool, and it is also working very well with GitHub Repo) - I installed a PostgreSQL extension to connect to AWS Database, and be able to write a querry and run it directly. 
