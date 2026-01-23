@@ -36,7 +36,7 @@ I created a PRIMARY KEYS and relations (FOREIGN KEYS) between tables.
 
 ## Stage 5: Advanced Queries
 [SQL Code](/sql/05_advanced_queries.sql)
-- Query 1: RFM Analyse
+- Query 1: RFM Analysis
 - Query 2: Suppliers rank based on delivery amount and average delivery time
 - Query 3: Products with the worst reviews, which generates the biggest income
 - Query 4: Monthly/Quarter sales trend
