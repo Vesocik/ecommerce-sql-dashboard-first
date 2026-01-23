@@ -4,16 +4,21 @@
 - Creating a database [X]
 - Creating a GitHub repositoriu [X]
 - Installing all necessary extensions [X]
+
 Beginning of the project was to create a cloud database using AWS services (free account).
+
 I have installed a program DBeaver to upload tables downloaded from Kaggle to my database. I had to learn how to operate DBeaver, how to upload tables, how to connect DBeaver to AWS Database etc. 
+
 Then, I decided that I will operate on VSCode (as I enjoy using that tool, and it is also working very well with GitHub Repo) - I installed a PostgreSQL extension to connect to AWS Database, and be able to write a querry and run it directly.
 
 ## Stage 2: Data cleaning and formatting.
 - [Primary Key code](/sql/01_add_primary_keys.sql)
 - [Foreign Key code](/sql/02_add_foreign_keys.sql)
 - [ERD Diagram](/docs/Diagram_ERD.png)
+
 I have checked every columns in every table to see if the data is formatted properly (DATE/DATETIME on date columns, INT on number columns, VARCHAR on text columns).
-I created a PRIMARY KEYS and relations (FOREIGN KEYS) between tables:
+
+I created a PRIMARY KEYS and relations (FOREIGN KEYS) between tables.
 
 ## Stage 3: Basic Queries
 [SQL Code](/sql/03_basic_queries.sql)
