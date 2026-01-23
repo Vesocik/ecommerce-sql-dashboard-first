@@ -1,15 +1,15 @@
-ecommerce_project/
-├─ README.md
-├─ sql/
-│  ├─ 01_basic_queries.sql
-│  ├─ 02_intermediate_queries.sql
-│  └─ 03_advanced_queries.sql
-├─ visualization/
-│  ├─ dashboard_tableau.twbx  (or Metabase/PowerBI alternative)
-│  └─ screenshots/ (charts in .PNG)
-├─ docs/
-│  ├─ Diagram_ERD.png
-│  ├─ Repo_Structure.md
-│  └─ Project_Scenario.md
-└─ data/
-   └─ sample_data.csv (part of data offline)
+- **ecommerce_project/**
+  - README.md
+  - **sql/**
+    - 01_basic_queries.sql
+    - 02_intermediate_queries.sql
+    - 03_advanced_queries.sql
+  - **visualization/**
+    - dashboard_tableau.twbx (or Metabase/PowerBI alternative)
+    - screenshots/ (charts in .PNG)
+  - **docs/**
+    - Diagram_ERD.png
+    - Repo_Structure.md
+    - Project_Scenario.md
+  - **data/**
+    - sample_data.csv (part of data offline)
